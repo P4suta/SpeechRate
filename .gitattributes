@@ -1,0 +1,4 @@
+# 行末は LF に正規化（クロスプラットフォーム一貫性）。
+* text=auto eol=lf
+*.png binary
+*.wav binary

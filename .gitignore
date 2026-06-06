@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Vosk音声認識モデル（初回起動時に自動DL、48MB〜のためコミットしない）
+models/
